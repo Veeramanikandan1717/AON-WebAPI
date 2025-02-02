@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "ArulOliNagar.Controllers.AuthController",
+    "Method": "GetCurrentUser",
+    "RelativePath": "api/Auth/current",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArulOliNagar.Controllers.AuthController",
+    "Method": "SignIn",
+    "RelativePath": "api/Auth/signin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ArulOliNagar.Controllers.SignInRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArulOliNagar.Controllers.AuthController",
+    "Method": "SignOut",
+    "RelativePath": "api/Auth/signout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArulOliNagar.Controllers.AuthController",
+    "Method": "SignUp",
+    "RelativePath": "api/Auth/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ArulOliNagar.Controllers.SignUpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArulOliNagar.Controllers.SmsController",
+    "Method": "SendOtp",
+    "RelativePath": "api/Sms/send-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ArulOliNagar.Model.PhoneNumberModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArulOliNagar.Controllers.SmsController",
+    "Method": "VerifyOtp",
+    "RelativePath": "api/Sms/verify-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ArulOliNagar.Model.OTPVerificationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArulOliNagar.Controllers.MemberOfAON",
+    "Method": "GetAllMembers",
+    "RelativePath": "MemberOfAON",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArulOliNagar.Controllers.MemberOfAON",
+    "Method": "InsertDataAsync",
+    "RelativePath": "MemberOfAON/PostMemberDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "memberspostdata",
+        "Type": "System.Collections.Generic.List\u00601[[ArulOliNagar.Model.Members, ArulOliNagar, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

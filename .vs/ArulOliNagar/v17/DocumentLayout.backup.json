@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\controllers\\smscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:controllers\\smscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\model\\phonenumbermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:model\\phonenumbermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\services\\membersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:services\\membersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\services\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:services\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\controllers\\supacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:controllers\\supacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\model\\otpverificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:model\\otpverificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\controllers\\memberofaon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:controllers\\memberofaon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|c:\\users\\veera\\source\\repos\\aon_project\\arulolinagar\\model\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD66278-73C7-47C2-B0AF-2FE2316B6382}|ArulOliNagar.csproj|solutionrelative:model\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Services\\SmsService.cs",
+              "RelativeDocumentMoniker": "Services\\SmsService.cs",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Services\\SmsService.cs",
+              "RelativeToolTip": "Services\\SmsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T04:24:14.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T17:51:53.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneNumberModel.cs",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Model\\PhoneNumberModel.cs",
+              "RelativeDocumentMoniker": "Model\\PhoneNumberModel.cs",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Model\\PhoneNumberModel.cs",
+              "RelativeToolTip": "Model\\PhoneNumberModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T04:31:55.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupaController.cs",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Controllers\\SupaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SupaController.cs",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Controllers\\SupaController.cs",
+              "RelativeToolTip": "Controllers\\SupaController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T03:44:52.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MembersService.cs",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Services\\MembersService.cs",
+              "RelativeDocumentMoniker": "Services\\MembersService.cs",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Services\\MembersService.cs",
+              "RelativeToolTip": "Services\\MembersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:41:18.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmsController.cs",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Controllers\\SmsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SmsController.cs",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Controllers\\SmsController.cs",
+              "RelativeToolTip": "Controllers\\SmsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T04:22:21.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:44:36.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Services\\SupabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\SupabaseService.cs",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Services\\SupabaseService.cs",
+              "RelativeToolTip": "Services\\SupabaseService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T03:43:35.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OTPVerificationModel.cs",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Model\\OTPVerificationModel.cs",
+              "RelativeDocumentMoniker": "Model\\OTPVerificationModel.cs",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Model\\OTPVerificationModel.cs",
+              "RelativeToolTip": "Model\\OTPVerificationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T04:32:29.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Members.cs",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Model\\Members.cs",
+              "RelativeDocumentMoniker": "Model\\Members.cs",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Model\\Members.cs",
+              "RelativeToolTip": "Model\\Members.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:30:58.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberOfAON.cs",
+              "DocumentMoniker": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Controllers\\MemberOfAON.cs",
+              "RelativeDocumentMoniker": "Controllers\\MemberOfAON.cs",
+              "ToolTip": "C:\\Users\\veera\\source\\repos\\AON_Project\\ArulOliNagar\\Controllers\\MemberOfAON.cs",
+              "RelativeToolTip": "Controllers\\MemberOfAON.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:38:43.705Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
